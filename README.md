@@ -1,2 +1,22 @@
-# Automated-Document-Verification-System
-An AI-based document verification system that uses OCR and validation logic to extract, analyze, and verify documents for authenticity and fraud detection.
+# Automated Document Verification System
+
+## Description
+Short explanation of project
+
+## Features
+- OCR extraction
+- Fraud detection
+
+## Tech Stack
+- React, Node.js, Python
+
+## Installation
+Steps to run project
+
+## Usage
+How to use it
+
+## Screenshots
+(Add images)
+
+## Future Improvements
