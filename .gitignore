@@ -1,2 +1,8 @@
 codedetails
 
+node_modules/
+dist/
+.env
+logs/
+*.log
+coverage/
