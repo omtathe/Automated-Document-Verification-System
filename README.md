@@ -15,6 +15,3 @@ Steps to run project
 
 ## Usage
 How to use it
-
-
-## Future Improvements
